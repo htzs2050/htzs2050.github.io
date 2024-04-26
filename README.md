@@ -1,6 +1,6 @@
 <!--# Hi there 👋-->
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/nekocatso/nekocatso/svgs/hello2.svg" align="left" width="340"><br>
+    <img src="https://cdn.jsdelivr.net/gh/htzs2050/htzs2050/svgs/hello2.svg" align="left" width="340"><br>
 <!--<img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=38C2FFFF&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
        alt="Hi there 👋" align="left"/>-->
 </p>
@@ -11,7 +11,7 @@
 
 <!--分割线-->
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/nekocatso/nekocatso/line.gif"/>
+<img src="https://cdn.jsdelivr.net/gh/htzs2050/htzs2050/line.gif"/>
 </p>
 
 
@@ -19,8 +19,8 @@
 <tr>
 <!--功勋墙-->
 <td width="60%" border="none">
-  <a href="https://github.com/nekocatso">
-    <img src="https://github-readme-stats.vercel.app/api?username=nekocatso&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
+  <a href="https://github.com/htzs2050">
+    <img src="https://github-readme-stats.vercel.app/api?username=htzs2050&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
 <br>
 <br>
 <br>
@@ -30,7 +30,7 @@
        alt="我的贡献 😃" />
 <!--贪吃蛇-->   
     <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
-    <img src="https://raw.githubusercontent.com/nekocatso/nekocatso/output/github-contribution-grid-snake.svg" align="center" alt="Contribution eating Snake" />
+    <img src="https://raw.githubusercontent.com/htzs2050/htzs2050/output/github-contribution-grid-snake.svg" align="center" alt="Contribution eating Snake" />
     </a>
 </td>
  
@@ -52,7 +52,7 @@
 
 <!--分割线-->
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/nekocatso/nekocatso/line.gif"/>
+<img src="https://cdn.jsdelivr.net/gh/htzs2050/htzs2050/line.gif"/>
 </p>
 
 
@@ -77,13 +77,13 @@
 <br>
 <!--前往主页-->
 <p align="center"> 
-<a href="https://nekocatso.github.io"/><img src="https://img.shields.io/badge/%E5%89%8D%E5%BE%80%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-000?style=for-the-badge&logo=ghost&logoColor=yellow" width="170px" height="40px"/></a>
+<a href="https://htzs2050.github.io"/><img src="https://img.shields.io/badge/%E5%89%8D%E5%BE%80%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-000?style=for-the-badge&logo=ghost&logoColor=yellow" width="170px" height="40px"/></a>
 </p>
 <br>
 
 <!--分割线-->
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/nekocatso/nekocatso/line.gif"/>
+<img src="https://cdn.jsdelivr.net/gh/htzs2050/htzs2050/line.gif"/>
 </p>
 
 
@@ -91,7 +91,7 @@
 <!--计数君-->
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=180&height=33&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC" style="max-width: 100%;">
-  <img src="https://profile-counter.glitch.me/nekocatso/count.svg" />
+  <img src="https://profile-counter.glitch.me/htzs2050/count.svg" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=230&height=33&lines=%E4%BD%8DGuest%EF%BC%81%E6%AC%A2%E8%BF%8E%EF%BC%81" style="max-width: 100%;">
 </p>
 # htzs2050.github.io
