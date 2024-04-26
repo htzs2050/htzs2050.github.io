@@ -1,8 +1,8 @@
 name: "nekocat的猫娘家园"
-description: "猫猫的个人技术博客"
+description: "猫猫的个人技术博客"htzs2050
 
-avatar: https://nekocatso.github.io/images/avatar.webp
-favicon: https://nekocatso.github.io/images/favicon.ico
+avatar: https://htzs2050.github.io/images/avatar.webp
+favicon: https://htzs2050.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -20,14 +20,14 @@ footer-links:
   zhihu: 
   email: blackcat8.8.8.800@gmail.com
   facebook:
-  github: nekocatso
-  rss: https://nekocatso.github.io/images/rss.svg
+  github: htzs2050
+  rss: https://htzs2050.github.io/images/rss.svg
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 nekocatso
+footer-text: Copyright (c) 2024 htzs2050
 
-url: https://nekocatso.github.io
+url: https://htzs2050.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
